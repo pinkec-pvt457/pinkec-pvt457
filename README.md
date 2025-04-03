@@ -1,23 +1,19 @@
 <h1 align="center">Hi 👋, I'm PANKAJ CHOUDHARI</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pinkec-pvt457&label=Profile%20views&color=0e75b6&style=flat" alt="pinkec-pvt457" /> </p>
-
 <p align="left"> <a href="https://twitter.com/_pinkec_pvt_457" target="blank"><img src="https://img.shields.io/twitter/follow/_pinkec_pvt_457?logo=twitter&style=for-the-badge" alt="_pinkec_pvt_457" /></a> </p>
 
 - 🔭 I’m currently working on [Quick-Convo](quick-convo-rose.vercel.app)
 
-- 🌱 I’m currently learning **Full Stack web devlopment using Java, React**
-
 - 👨‍💻 All of my projects are available at [Click Here](https://multi-page-henna.vercel.app/)
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YPl4UU3yL4KfonY9X9O2TKldbt4o5Z1r/view?usp=sharing)
+  
+- 🌱 I’m currently learning **Full Stack web devlopment using Java, React**
 
 - 💬 Ask me about **React, ASP.NET MVC & C#**
 
 - 📫 How to reach me **pankajchoudhari457@gmail.com**
-
-- Hello [https://drive.google.com/file/d/1YPl4UU3yL4KfonY9X9O2TKldbt4o5Z1r/view?usp=sharing](https://drive.google.com/file/d/1YPl4UU3yL4KfonY9X9O2TKldbt4o5Z1r/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
