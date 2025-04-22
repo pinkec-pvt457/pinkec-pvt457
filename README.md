@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_pinkec_pvt_457" target="blank"><img src="https://img.shields.io/twitter/follow/_pinkec_pvt_457?logo=twitter&style=for-the-badge" alt="_pinkec_pvt_457" /></a> </p>
 
-- 🔭 I’m currently working on [Quick-Convo](https://quick-convo-rose.vercel.app/)
+- 🔭 I’m currently working on [Quick-Convo](https://quick-convo-io.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Click Here](https://multi-page-henna.vercel.app/)
 
