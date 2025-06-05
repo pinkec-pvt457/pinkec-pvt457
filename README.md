@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/_pinkec_pvt_457" target="blank"><img src="https://img.shields.io/twitter/follow/_pinkec_pvt_457?logo=twitter&style=for-the-badge" alt="_pinkec_pvt_457" /></a> </p>
 
-- 🔭 I’m currently working on [Quick-Convo](https://quick-convo-io.vercel.app/)
+- 🔭 One of my recent project [Quick-Convo](https://quick-convo-io.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [Click Here](https://multi-page-henna.vercel.app/)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1YPl4UU3yL4KfonY9X9O2TKldbt4o5Z1r/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1lx8B4Gupi_gWFzyBphYNcBIn3GpxdYAF/view?usp=sharing)
   
 - 🌱 I’m currently learning **Full Stack web devlopment using Java, React**
 
