@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Click Here](https://multi-page-henna.vercel.app/)
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1lx8B4Gupi_gWFzyBphYNcBIn3GpxdYAF/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ZrA9pkYLrTBbmcoHLRaBrUXd9nB9PdDR/view?usp=sharing)
   
 - 🌱 I’m currently learning **Full Stack web devlopment using Java, React**
 
